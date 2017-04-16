@@ -1,7 +1,8 @@
-# Google Calender Register
-Google Calenfer Register is make a schedule from dDREAMS to Google Calender via Email invitaion system. When you make a schedule on dDREMAS, you add target email address as a invitor. This Lambda detect the invitation email and register schedule according to the email.
+# Google Calendar Register
+Google Calendar Register sync a schedule from dDREAMS to Google Calender via Email invitaion system when you make a schedule on dDREMAS.
+Once you add target email address as a invitor. This Lambda detect the invitation email and register schedule according to the email.
 
-![Google Calender Register](GCR.png)
+![Google Calendar Register](GCR.png)
 
 ## required environment value
 * target_calendar_id = (Target Google Calender ID)
